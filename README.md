@@ -12,7 +12,7 @@
 ## node_modules
 
 ```bash
-* [`node_modules`](https://www.mediafire.com/file/pe6dsi1iwri8299/node_modules.zip/file)
+* [`node_modules`](https://www.mediafire.com/file/pe6dsi1iwri8299/node_modules.zip)
 ```
 
 ## Features
