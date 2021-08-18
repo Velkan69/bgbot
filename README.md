@@ -11,9 +11,9 @@
 
 ## node_modules
 
-```bash
-https://www.mediafire.com/file/pe6dsi1iwri8299/node_modules.zip
-```
+
+* [`node_modules`](https://www.mediafire.com/file/pe6dsi1iwri8299/node_modules.zip) 
+
 
 ## Special Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
