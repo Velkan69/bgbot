@@ -131,8 +131,11 @@ const help = (prefix,shp,monoscape) => {
 ┃${monoscape}${shp} 107.${prefix}gecg${monoscape}
 ┃${monoscape}${shp} 108.${prefix}wallpaper${monoscape}
 ┃${monoscape}${shp} 109.${prefix}foxgirl${monoscape}
+┃${monoscape}${shp} 110.${prefix}ytmp3${monoscape}
+┃${monoscape}${shp} 111.${prefix}ytmp4${monoscape}
 ┃${monoscape}${shp} x ${monoscape}
 ┃${monoscape}${shp} $ ${monoscape}
+┃${monoscape}${shp} > ${monoscape}
 ┗━━⬣  ꪶ𖣂ꫂ 𝘛𝘚𝘜𝘒𝘈𝘚𝘈 ボ 𝘊𝘏𝘈𝘕 〽️
 
 ┏━━⬣  𝕊𝕋𝕆ℝ𝔸𝔾𝔼 [ √ ]
