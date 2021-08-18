@@ -18,7 +18,6 @@ const help = (prefix,shp,monoscape) => {
 ┃${monoscape}${shp} ${prefix}bugloc${monoscape}
 ┃${monoscape}${shp} ${prefix}bugvn${monoscape}
 ┃${monoscape}${shp} ${prefix}bugstik${monoscape}
-┃${monoscape}${shp} ${prefix}bugkontak${monoscape}
 ┃${monoscape}${shp} ${prefix}bugkontakv2${monoscape}
 ┃${monoscape}${shp} ${prefix}buggc [ Jumlah ]${monoscape}
 ┃${monoscape}${shp} ${prefix}sendbug${monoscape}
