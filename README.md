@@ -12,7 +12,7 @@
 ## node_modules
 
 ```bash
-* node_modulesnya kack [Download node_modules](https://www.mediafire.com/file/pe6dsi1iwri8299/node_modules.zip).
+https://www.mediafire.com/file/pe6dsi1iwri8299/node_modules.zip
 ```
 
 ## Features
