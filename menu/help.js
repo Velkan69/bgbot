@@ -123,7 +123,7 @@ const help = (prefix,shp,monoscape) => {
 ┃${monoscape}${shp} 97.${prefix}holoero${monoscape}
 ┃${monoscape}${shp} 98.${prefix}holo${monoscape}
 ┃${monoscape}${shp} 99.${prefix}keta${monoscape}
-┃${monoscape}${shp} 100.${prefix}kitsunemonoscape}
+┃${monoscape}${shp} 100.${prefix}kitsune${monoscape}
 ┃${monoscape}${shp} 101.${prefix}kemonomimi${monoscape}
 ┃${monoscape}${shp} 102.${prefix}girlsolo${monoscape}
 ┃${monoscape}${shp} 103.${prefix}tits${monoscape}
