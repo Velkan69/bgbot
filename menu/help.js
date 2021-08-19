@@ -90,6 +90,7 @@ const help = (prefix,shp,monoscape) => {
 ┃${monoscape}${shp} 64.${prefix}maker3d3${monoscape}
 ┃${monoscape}${shp} 65.${prefix}maker3d${monoscape}
 ┃${monoscape}${shp} 66.${prefix}maker3d2${monoscape}
+┃${monoscape}${shp} 67.${prefix}loli2${monoscape}
 ┃${monoscape}${shp} 68.${prefix}maker2d4${monoscape}
 ┃${monoscape}${shp} 69.${prefix}maker2d3${monoscape}
 ┃${monoscape}${shp} 70.${prefix}maker2d2${monoscape}
