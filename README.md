@@ -9,7 +9,7 @@
 <a href="https://github.com/XChillDs"><img title="Author" src="https://img.shields.io/badge/Author-XChillDs-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-## nih node_modules nya kack
+## node_modules
 
 
 * [`node_modules`](https://www.mediafire.com/file/bwfshn6isyecwj3/node_modules.zip/file) 
@@ -18,3 +18,9 @@
 ## Special Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar`](https://github.coMhankBarBar)
+* [`Senkuu`](https://github.com/SenkuXZ)
+
+### Info Penting 
+```bash 
+Jangan npm i / bash install.sh,Download node_modules nya di atas
+```
